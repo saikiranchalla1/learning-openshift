@@ -70,6 +70,22 @@
 ## Building multi-tier application from source code
 1. Building multi-tier application
 
+## Deploying and scaling an application:
+1. Automatic deployments using webhooks
+2. Scaling an application
+3. Deployment strategies
+4. Application health checks
+5. Deployment lifecycle
+6. Application Rollback
+
+## Working with an application
+1. Listing running instances
+2. Container logs
+3. Environment variables
+4. Editing configurations
+5. Debugging an application
+6. Deleting an application
+
 ## CI/CD Pipelines in OpenShift
 1. CI/CD pipelines
 2. Jenkins as CI/CD
@@ -82,10 +98,3 @@
 ## OpenShift HA Design for Single/Multiple DCs (theoritical)
 1. Single-DC HA Design
 2. Multi-DC HA Design
-
-## Network Design for OpenShift HA
-1. Data center networks
-2. Cloud networks
-3. Common mistakes in network design for OpenShift
-4. General network requirements and guidelines
-
